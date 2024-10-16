@@ -1,0 +1,23 @@
+{
+    "background": "#181818",
+    "black": "#000000",
+    "blue": "#2472C8",
+    "brightBlack": "#666666",
+    "brightBlue": "#3B8EEA",
+    "brightCyan": "#29B8DB",
+    "brightGreen": "#23D18B",
+    "brightPurple": "#D670D6",
+    "brightRed": "#F14C4C",
+    "brightWhite": "#E5E5E5",
+    "brightYellow": "#F5F543",
+    "cursorColor": "#C7C7C7",
+    "cyan": "#11A8CD",
+    "foreground": "#C7C7C7",
+    "green": "#0DBC79",
+    "name": "VS Code Dark",
+    "purple": "#BC3FBC",
+    "red": "#CD3131",
+    "selectionBackground": "#C7C7C7",
+    "white": "#E5E5E5",
+    "yellow": "#E5E510"
+}
